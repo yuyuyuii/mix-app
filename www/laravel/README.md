@@ -1,0 +1,5 @@
+### web上にあるチュートリアルをやってみたり、AWS上のS3にファイルアップロードしてみたり、簡単なAPI作成して挙動確認してみたりするだけのやつ
+
+- S3はImageControllerでアップロードと表示まで
+- ItemControllerはGUI上でTodoアプリのCRUD処理
+- TodoControllerはAPIでのCRUD処理
